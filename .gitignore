@@ -1,0 +1,16 @@
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# Environment files
+.env
+.env.*
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
